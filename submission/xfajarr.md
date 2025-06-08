@@ -1,4 +1,4 @@
-# 🚀 EIP-7702 Casual Hackathon Project Demo Submission
+  # 🚀 EIP-7702 Casual Hackathon Project Demo Submission
 
 <!--
 Please fill out the information below. This information will be automatically processed.
@@ -82,6 +82,8 @@ npm start
 
 <!-- Add screenshots of your project here -->
 ![Screenshot 1]([submission\ohmy7702.png](https://raw.githubusercontent.com/CasualHackathon/EIP-7702/aa674f955bfd82d41b7acbf0805ef29768079b19/submission/ohmy7702.png))
+
+or access this link: https://www.canva.com/design/DAGpwMuhB6s/BVVN_wxWuDMjBKvgi_WTIA/edit?utm_content=DAGpwMuhB6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 🔮 Future Plans
 
