@@ -2,6 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib", "dependencies"]
+evm_version = "prague"
 
 [soldeer]
 # whether soldeer manages remappings
