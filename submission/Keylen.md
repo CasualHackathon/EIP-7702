@@ -76,7 +76,7 @@ npm start
 ## 📷 Screenshots
 
 <!-- Add screenshots of your project here -->
-![Screenshot 1](https://uy.wzznft.com/i/2025/06/07/7ygji58.png)
+![Screenshot 1](../images/keylenSub.png)
 
 ## 🔮 Future Plans
 
