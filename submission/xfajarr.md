@@ -81,7 +81,7 @@ npm start
 ## 📷 Screenshots
 
 <!-- Add screenshots of your project here -->
-![Screenshot 1](submission\ohmy7702.png)
+![Screenshot 1]([submission\ohmy7702.png](https://raw.githubusercontent.com/CasualHackathon/EIP-7702/aa674f955bfd82d41b7acbf0805ef29768079b19/submission/ohmy7702.png))
 
 ## 🔮 Future Plans
 
