@@ -1,0 +1,22 @@
+{
+    "name": "contract",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "setup": "bun run install:dependency && bun run setup:env",
+        "install:dependency": "forge soldeer init",
+        "setup:env": "cp .env.example .env",
+        "anvil": "anvil",
+        "build": "forge build",
+        "compile": "forge compile",
+        "deploy": "forge script script/Counter.s.sol",
+        "deploy:anvil": "source .env && forge script script/Counter.s.sol --chain anvil",
+        "deploy:anvil:broadcast": "source .env && forge script script/Counter.s.sol --chain anvil --rpc-url anvil",
+        "deploy:monadTestnet": "source .env && forge script script/Counter.s.sol --chain $MONAD_TESTNET_CHAIN_ID",
+        "deploy:monadTestnet:broadcast": "source .env && forge script script/Counter.s.sol --chain $MONAD_TESTNET_CHAIN_ID --rpc-url monadTestnet --broadcast --account deployer",
+        "verify:monadTestnet": "source .env && forge verify-contract $CONTRACT_ADDRESS src/Counter.sol:Counter --watch --chain $MONAD_TESTNET_CHAIN_ID --verifier sourcify --verifier-url $MONAD_TESTNET_VERIFIER_URL",
+        "import:deployer": "cast wallet import -i deployer",
+        "test": "forge test"
+    }
+}
