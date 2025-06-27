@@ -118,7 +118,7 @@ Time: 4:00 PM (GMT+8), June 8
     - BGA USDT Airdrop:
         - Project must be open-source
         - Provide a live demo
-        - Share a project showcase post that includes a photo of your team with the BGA logo, tagging @BGA on social media Exclusively judged by BGA
+        - Share a project showcase post that includes a photo of your team with the BGA logo, tagging @BGA on social media Exclusively judged by BGA (Exclusively judged by BGA) 
 
 🎁 All prizes will be coordinated by LXDAO and announced via the official GitHub repo.
 
