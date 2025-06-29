@@ -12,7 +12,7 @@ name: 'Hirugohan' # Your name or nickname
 description: 'DApp builder and learning SR' # Brief personal introduction including skills and experience (One sentence)
 contact_method: 'Telegram' # Contact method: Telegram | WeChat | Discord | Email | X(Twitter) | GitHub
 contact: '@hirugohan' # Your contact details, e.g., @username, email@example.com
-wallet_address: '' # Your wallet address or ENS domain on Ethereum mainnet
+wallet_address: '0xF28d7F814F3F66A6eD59a1dDe3809B34a93e4df2' # Your wallet address or ENS domain on Ethereum mainnet
 role: 'Full-stack Developer' # Primary skill role: Solidity Developer | Frontend Developer | Backend Developer | Full-stack Developer | Product Manager | UI/UX Designer | Test Engineer | Blockchain Researcher | etc.
 experience_level: 'Junior' # Blockchain development experience: Beginner | Junior | Intermediate | Senior | Expert
 timezone: 'UTC+7' # Timezone, e.g., UTC+8, EST, PST (for team collaboration scheduling)
